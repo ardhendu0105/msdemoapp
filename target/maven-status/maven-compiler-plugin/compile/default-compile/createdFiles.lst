@@ -1,0 +1,5 @@
+com\newsapp\devops\dto\NewsSource.class
+com\newsapp\devops\newsappcore\controller\NewsFeedController.class
+com\newsapp\devops\dto\FeedDetail.class
+com\newsapp\devops\dto\NewsFeed.class
+com\newsapp\devops\newsappcore\NewsappcoreApplication.class
